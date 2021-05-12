@@ -1,5 +1,5 @@
 ### frontend
-React.Js teste frontend
+React.Js frontend
 
 ### Instalação
 git clone https://github.com/EdioPaul/frontend
